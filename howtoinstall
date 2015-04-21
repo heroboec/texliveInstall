@@ -1,2 +1,7 @@
+1) install packages
+
 sudo apt-get install texlive texlive-science texlive-latex-extra texlive-fonts-* texlive-lang-cyrillic
 
+2) install tex-pscyr_0.4d~beta9-1_all.deb
+
+3) if you use texmaker, you can add dictionary and use spellcheck 
